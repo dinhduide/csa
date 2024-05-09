@@ -1,0 +1,28 @@
+Khắc phục sau NLCS: Có trang admin, có trình soạn thảo văn bản để đăng bài viết, thông tin đăng ký tài khoản nhiều hơn, tương tác giữa người dùng và phát triển cơ hội nghề nghiệp.
+
+Front-end: Vue + Bootstrap
+Backend: Nodejs
+DB: MongoDB
+
+
+Đối tượng: Admin, guest, user
+
+HOME
+
+GIỚI THIỆU
+	Trường CNTT - Khoa Khoa học máy tính
+	Giới thiệu mạng lưới CSA, quyền lợi và cơ hội nghề nghiệp
+	Giới thiệu Ban chủ nhiệm
+TIN TỨC (lọc theo các nhãn: #CICT #Hopmat #Vieclam)
+
+DANH SÁCH CSA
+
+TUYỂN DỤNG (user gửi tin, admin up bài)
+
+KẾT NỐI (user có thể: Đăng bài (tin và ảnh), cập nhật thông tin - xem thông tin của nhau, nhắn tin với nhau)
+
+GƯƠNG MẶT CSA (Admin đăng tin về gương thành công, câu chuyện đẹp của cựu sinh viên)	
+
+LIÊN HỆ
+
+LOGIN/LOGOUT
